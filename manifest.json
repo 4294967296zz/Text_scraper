@@ -6,7 +6,7 @@
   "version": "0.2",
  
   "browser_action": {
-    "default_icon": "jimoji.PNG",
+    "default_icon": "text-scraper-icon.png",
     "default_popup": "popup.html"
   },
   "permissions": [
