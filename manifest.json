@@ -1,12 +1,12 @@
 {
   "manifest_version": 2,
  
-  "name": "DONG",
-  "description": "Testing",
-  "version": "1.0",
+  "name": "Text scraper",
+  "description": "Scrapes texts from page document",
+  "version": "0.2",
  
   "browser_action": {
-    "default_icon": "jimoji.jpeg",
+    "default_icon": "jimoji.PNG",
     "default_popup": "popup.html"
   },
   "permissions": [
