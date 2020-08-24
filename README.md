@@ -7,5 +7,5 @@
 > Scrapes all the texts from the page. Helps me for better, faster, stronger googling
 > (Future update : Export in csv, pdf, txt file)
 #### 내 크롬에 적용해보기 / How to upload this extension to ur chrome
-- 크롬 확장프로그램 > 개발자모드 ON > 확장프로그램 업로드!!!!
-- Chrome extension > develop mode ON > Upload!!!!
+- 크롬 확장프로그램 > 개발자모드 ON > 확장프로그램 업로드!!!!!!
+- Chrome extension > develop mode ON > Upload!!!!!!
